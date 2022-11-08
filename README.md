@@ -9,4 +9,5 @@ Recording my Atcoder problems solution.
 | ABC270 | &#9744; | &#9744; | &#9744; | &#x2705;(game, dp) | &#X2705;(Sort, Math) | &#X2705;(MST + Super Node) |
 | ABC269 | &#9744; | &#9744; | &#9744; | &#9744; | &#X2705;(Math)              | &#9744; |
 | ABC268 | &#9744; | &#9744; | &#9744; | &#9744; | &#9744; | &#X2705; (Greedy, Sort) |
+| ABC266 | &#9744; | &#9744; | &#9744; | &#9744; | &#9744; | &#X2705;(DSU, Cycle on Tree) |
 
