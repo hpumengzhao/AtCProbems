@@ -3,7 +3,6 @@
 using namespace std;
 const int N = 2e5 + 100;
 int f[N];
-
 int find(int x){
 	return x == f[x] ? x : f[x] = find(f[x]);
 }
