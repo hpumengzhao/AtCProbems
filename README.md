@@ -13,4 +13,5 @@ Recording my Atcoder problems solution.
 | ABC266 | &#9744; | &#9744; | &#9744; | &#9744; | &#9744; | &#X2705;(DSU, Cycle on Tree) |
 | ABC264 | &#9744; | &#9744; | &#9744; | &#9744; | &#9744; | &#X2705;(DP，4-dimension) |
 | ABC263 | &#9744; | &#9744; | &#9744; | &#9744; | &#X2705;（DP, Probability） | &#9744; |
+| ABC260 | &#9744; | &#9744; | &#9744; | &#9744; | &#X2705;（Sliding-window, Difference） | &#9744; |
 
